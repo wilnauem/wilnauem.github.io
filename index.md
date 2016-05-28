@@ -6,9 +6,7 @@ layout: default
 
 ## A Blog and Videocollection about Clean Code, Refactoring, Design Principles und good Software.
 
-### Refactoring If Statement for Readability
-
-checkout this: http://www.codereadability.com/refactoring-if-statements-for-readability/
+### [Refactoring If Statements for Readability](http://www.codereadability.com/refactoring-if-statements-for-readability/)
 
 
 ###  Jared Wyles - On Readable Code
