@@ -10,6 +10,8 @@ layout: default
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/PJjHfa5yxlU" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="800" height="400" src="https://www.youtube.com/embed/59YClXmkCVM" frameborder="0" allowfullscreen></iframe>
+
 ### [Refactoring If Statements for Readability](http://www.codereadability.com/refactoring-if-statements-for-readability/)
 
 
