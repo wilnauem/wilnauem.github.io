@@ -6,6 +6,12 @@ layout: default
 
 ## A Blog and Videocollection about Clean Code, Refactoring, Design Principles und good Software.
 
+### Sourcemaking.com
+
+Cool Website dealing with Design Patterns, AntiPatterns, Refactoring and UML: [Sourcemaking.com](http://www.sourcemaking.com)
+
+
+
 <iframe width="800" height="400" src="https://www.youtube.com/embed/rI8tNMsozo0" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/PJjHfa5yxlU" frameborder="0" allowfullscreen></iframe>
