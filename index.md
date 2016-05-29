@@ -20,10 +20,7 @@ Cool Website dealing with Design Patterns, AntiPatterns, Refactoring and UML: [S
 
 ### [Refactoring If Statements for Readability](http://www.codereadability.com/refactoring-if-statements-for-readability/)
 
-<pre><code>{% raw  %}
 {% include sharing.html %}
-{% endraw %}
-</code></pre>
 
 ###  Jared Wyles - On Readable Code
 
