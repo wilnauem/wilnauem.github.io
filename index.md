@@ -6,11 +6,42 @@ layout: default
 
 ## A Blog and Videocollection about Clean Code, Refactoring, Design Principles und good Software.
 
+{% include sharing.html %}
+
 ### Sourcemaking.com
 
 Cool Website dealing with Design Patterns, AntiPatterns, Refactoring and UML: [Sourcemaking.com](http://www.sourcemaking.com)
 
+<iframe width="800" height="400" src="https://www.youtube.com/embed/EfOEyB4XH5o" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="800" height="400" src="https://www.youtube.com/embed/JKYktDRoRxw" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/q5Xd1tmIgec" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/Xu5EhKVZdV8" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/wEhu57pih5w" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/wmgnFbsaPvo" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/47849625" width="800" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/47849625">It Was Like That When I Got Here: Steps Toward Modernizing a Legacy Codebase</a> from <a href="https://vimeo.com/nashvillephp">NashvillePHP</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/YruzQgWdv48" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/9lv2lBq6x4A" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/npOGOmkxuio" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/vqN3TQgsXzI" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/Oxd_DBuX8R8" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/J4dlF0kcThQ" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/w_LDi5Ygz3k" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/Obcl-t5GID4" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/rI8tNMsozo0" frameborder="0" allowfullscreen></iframe>
 
@@ -19,8 +50,6 @@ Cool Website dealing with Design Patterns, AntiPatterns, Refactoring and UML: [S
 <iframe width="800" height="400" src="https://www.youtube.com/embed/59YClXmkCVM" frameborder="0" allowfullscreen></iframe>
 
 ### [Refactoring If Statements for Readability](http://www.codereadability.com/refactoring-if-statements-for-readability/)
-
-{% include sharing.html %}
 
 ###  Jared Wyles - On Readable Code
 
@@ -102,10 +131,10 @@ Alt+Shift+M
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/TMuno5RZNeE" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="800" height="400" src="https://www.youtube.com/embed/TMuno5RZNeE" frameborder="0" allowfullscreen></iframe>
-
 <iframe width="800" height="400" src="https://www.youtube.com/embed/n45-L8bp2cU?list=PL25790B85E32D00B4" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/U4hIpntxWYc?list=PL25790B85E32D00B4" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/5EruE6OXYTU?list=PL25790B85E32D00B4" frameborder="0" allowfullscreen></iframe>
+
+{% include sharing.html %}
