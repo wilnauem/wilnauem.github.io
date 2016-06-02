@@ -12,6 +12,8 @@ layout: default
 
 Cool Website dealing with Design Patterns, AntiPatterns, Refactoring and UML: [Sourcemaking.com](http://www.sourcemaking.com)
 
+<iframe width="800" height="400" src="https://www.youtube.com/embed/avauW5FAWCw?list=PLE7tQUdRKcyYPrQMmeYDti-yOmt4IJnpI" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="800" height="400" src="https://www.youtube.com/embed/WoR2CYAwfEM" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/4sm1PTZrejI" frameborder="0" allowfullscreen></iframe>
